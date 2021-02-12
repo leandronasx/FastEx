@@ -2,7 +2,8 @@
 
 <p align="justify">Pagina única para captação de email. Essa landing page foi desenvolvida para uma competição de startups, o Startup Weekend.</p>
 
-<p><a href="http://bit.ly/fastex_landing" target="_blank>Quero ver.</a></p>
+<p><a href="http://bit.ly/fastex_landing" target="_blank">Quero ver.</a></p>
+	
 <h4 align="center"> 
 	✅ LANDING PAGE  🚀  CONCLUÍDO ✅
 </h4>
