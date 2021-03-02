@@ -113,9 +113,6 @@
     </section>
 
     <footer class="footer row">
-        <div class="conteiner">
-
-        </div>
     </footer>
 </body>
 </html>

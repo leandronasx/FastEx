@@ -99,7 +99,7 @@ img{
 
 .form{
     display: grid;
-    color: white;
+    color: #fff;
     grid-template-columns: 1fr 1fr 1fr;
     column-gap: 20px;
     grid-template-areas: "paragrafo paragrafo paragrafo"
@@ -109,13 +109,14 @@ img{
     font-size: 1.2rem;
     margin-bottom: 5px;
 }
-.form input{
-    padding: 15px 0 15px 5px;
-    background-color: white;
-    color:#13c7ae;
+#nome input, #email input{
+    padding: 15px 0 15px 10px;
+    background-color: initial;
+    color: #fff;
+    border: 1px solid #fff;
 }
 .form input::placeholder{
-    color:#13c7ae;
+    color: #fff;
 }
 #paragrafo{
     grid-area: paragrafo;
@@ -151,7 +152,9 @@ img{
 /* Footer */
 .footer{
     background-image: url("../img/rodape.jpg");
+    background-size: cover;
+    background-position: center;
     padding: 67px 0;
     background-color: #ccc;
-    margin-left: -10px;
+    margin-left: -15px;
 }
